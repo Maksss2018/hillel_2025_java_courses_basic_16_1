@@ -9,7 +9,7 @@
   <version>0.0.1/</version>
   <packaging>jar</packaging>
 
-  <name>hillel_2025_java_courses_basic_16_1</name>
+  <name>calculator</name>
   <url>https://github.com/Maksss2018/hillel_2025_java_courses_basic_16_1</url>
 
   <properties>
