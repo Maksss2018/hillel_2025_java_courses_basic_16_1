@@ -6,7 +6,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>hillel_2025_java_courses_basic_16_1</artifactId>
-  <version>0.0.1/</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <name>calculator</name>
@@ -14,8 +14,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>25</maven.compiler.source>
+    <maven.compiler.target>25</maven.compiler.target>
   </properties>
 
   <dependencies>
